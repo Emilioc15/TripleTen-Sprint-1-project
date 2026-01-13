@@ -1,38 +1,32 @@
-# Exploratory Data Analysis & Data Cleaning  
-**TripleTen Sprint 1 Project**
+# TripleTen Sprint 1: Exploratory Data Analysis & Data Cleaning
 
-## Project Context
+## Project Overview
 This project was completed as part of **Sprint 1** in the **TripleTen Data Science Program**.  
-The focus of this sprint was developing foundational data analysis skills using Python and pandas.
+The goal of the sprint was to build foundational skills in data handling by exploring, cleaning, and analyzing a structured dataset. This work prepared the dataset for modeling and deeper analysis in later sprints.
 
 ## Objective
-The goal of this project was to explore, clean, and analyze a structured dataset in order to:
-- Understand the data structure and quality
-- Identify patterns, trends, and anomalies
-- Prepare the data for downstream analysis and modeling
+- Understand the dataset and its structure  
+- Identify and handle missing or inconsistent data  
+- Perform exploratory data analysis (EDA) to find patterns and trends  
+- Generate actionable insights from summary statistics and visualizations  
 
-## Key Tasks
-- Loaded and inspected raw data
-- Identified missing values and inconsistencies
-- Cleaned and transformed data types
-- Performed exploratory data analysis (EDA)
-- Generated summary statistics and visual insights
-- Documented findings and assumptions
+## Key Tasks Completed
+1. **Data Inspection & Cleaning**  
+   - Checked data types, missing values, and duplicates  
+   - Standardized column names and formats  
+   - Addressed nulls and inconsistencies  
+
+2. **Exploratory Data Analysis (EDA)**  
+   - Calculated summary statistics (mean, median, standard deviation)  
+   - Visualized distributions, correlations, and outliers  
+   - Identified key patterns and anomalies  
+
+3. **Documentation & Reporting**  
+   - Recorded assumptions and cleaning decisions  
+   - Prepared visualizations to support insights  
 
 ## Tools & Technologies
-- Python
-- pandas
-- NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
-
-## Analysis Highlights
-- Detected and handled missing and incorrect values
-- Standardized column formats and data types
-- Identified key distributions and outliers
-- Produced visualizations to support insights
-
-## Outcome
-The dataset was successfully cleaned and analyzed, resulting in a reliable foundation for future modeling and business analysis tasks in later sprints.
-
-## Project Structure
+- Python  
+- pandas, NumPy  
+- Matplotlib, Seaborn  
+- Jupyter Notebook  
